@@ -1,0 +1,26 @@
+# .NET
+dotnet/**/bin/
+dotnet/**/obj/
+*.user
+.vs/
+.idea/
+
+# Unity (client/)
+client/[Ll]ibrary/
+client/[Tt]emp/
+client/[Oo]bj/
+client/[Bb]uild/
+client/[Bb]uilds/
+client/[Ll]ogs/
+client/[Uu]ser[Ss]ettings/
+client/[Mm]emoryCaptures/
+client/*.csproj
+client/*.sln
+client/*.slnx
+client/*.unityproj
+client/.vsconfig
+client/Assets/Art/Generated/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "name": "com.underthrone.shared",
+  "displayName": "Underthrone Shared",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Simulation rules and wire protocol shared by the Underthrone client and server. Pure C# (no UnityEngine), compiled by both Unity and the .NET server."
+}

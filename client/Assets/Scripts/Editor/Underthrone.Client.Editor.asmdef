@@ -1,0 +1,19 @@
+{
+    "name": "Underthrone.Client.Editor",
+    "rootNamespace": "Underthrone.Client.Editor",
+    "references": [
+        "Underthrone.Client",
+        "Underthrone.Shared"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

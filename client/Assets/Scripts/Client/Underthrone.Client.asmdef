@@ -1,0 +1,20 @@
+{
+    "name": "Underthrone.Client",
+    "rootNamespace": "Underthrone.Client",
+    "references": [
+        "Underthrone.Shared",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "LiteNetLib.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
